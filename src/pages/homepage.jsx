@@ -107,6 +107,7 @@ const Homepage = () => {
 											src="1.jpg"
 											alt="about"
 											className="1-image"
+											style={{width:"350px"}}
 										/>
 									</div>
 								</div>

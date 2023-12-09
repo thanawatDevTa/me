@@ -52,14 +52,14 @@ const INFO = {
 			link: "http://akira-iot.com/index",
 		},
 
-		// {
-		// 	title: "Project 3",
-		// 	description:
-		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com",
-		// },
+		{
+			title: "Queue",
+			description:
+				"Patient queue system developed using React and socket io makes the website real-time.",
+			logo: "https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png",
+			linkText: "View Project",
+			link: "http://183.88.214.11:6789/",
+		},
 
 		// {
 		// 	title: "Project 4",

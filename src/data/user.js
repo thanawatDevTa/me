@@ -43,23 +43,23 @@ const INFO = {
 			link: "https://rmuti.ac.th/user/tipa/dormitory/login.php",
 		},
 
-		{
-			title: "Akira-iot",
-			description:
-				"It is a system for reporting the status of solar cell towers, developed with next js type script language.",
-			logo: "https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png",
-			linkText: "View Project",
-			link: "http://akira-iot.com/index",
-		},
+		// {
+		// 	title: "Akira-iot",
+		// 	description:
+		// 		"It is a system for reporting the status of solar cell towers, developed with next js type script language.",
+		// 	logo: "https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png",
+		// 	linkText: "View Project",
+		// 	link: "http://akira-iot.com/index",
+		// },
 
-		{
-			title: "Queue",
-			description:
-				"Patient queue system developed using React and socket io makes the website real-time.",
-			logo: "https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png",
-			linkText: "View Project",
-			link: "http://183.88.214.11:6789/",
-		},
+		// {
+		// 	title: "Queue",
+		// 	description:
+		// 		"Patient queue system developed using React and socket io makes the website real-time.",
+		// 	logo: "https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png",
+		// 	linkText: "View Project",
+		// 	link: "http://183.88.214.11:6789/",
+		// },
 
 		// {
 		// 	title: "ยังไม่มีค้าบบบ",
